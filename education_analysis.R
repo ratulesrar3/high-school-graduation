@@ -129,8 +129,6 @@ for (i in 1:51) {
   plots[[i]] <- p
   
   # print plot for state i
-  print(p) 
+  # print(p) 
 }
-
-
 
